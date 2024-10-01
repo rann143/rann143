@@ -5,7 +5,7 @@
 -->
 
 ## About Me
-I am a self taught full stack web developer. I began my journey to learn how to program in 2023 and took off from there! 
+I am a self taught full stack web developer who's been programming since 2022. I've always had a passion for creating and problem solving, and programming became one of my favorite outlets over the past few years. While my background was as a SaaS Sales Account Executive, In 2022 I finally decided to dive into the deep end in software development! This repository is a reflection of my growth as a developer just within the past few years, and I'm excited to continue my journey in this challenging and (personally) wildly rewarding field. :)
 
 ### Skills
 
