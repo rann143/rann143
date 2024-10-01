@@ -5,7 +5,7 @@
 -->
 
 ## About Me
-I am a self taught full stack web developer. I began my journey to learn how to program in 2023 thanks to the [The Odin Project](https://www.theodinproject.com/about) and began to take off from there! 
+I am a self taught full stack web developer. I began my journey to learn how to program in 2023 took off from there! 
 
 ### Skills
 
