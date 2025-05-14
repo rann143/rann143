@@ -13,5 +13,5 @@ I've always had a passion for creating and problem solving, and programming beca
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,mongodb,postgres,webpack,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,html,css,mongodb,postgres,webpack,npm)](https://skillicons.dev)
 
