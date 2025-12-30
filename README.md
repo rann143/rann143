@@ -9,7 +9,7 @@ I am a self taught full stack web developer who's been programming since early 2
 
 While my background was as a SaaS Sales Account Executive, in 2023 I decided to dive into the deep end in software development!
 
-I've always had a passion for creating and problem solving, and programming became one of my favorite outlets. These repositories reflect my growth as a developer just within the past year, and I'm excited to continue my journey in this challenging and (personally) wildly rewarding field. :)
+I've always had a passion for creating and problem solving, and programming became one of my favorite outlets. These repositories reflect my growth as a developer over the past couple years, and I'm excited to continue my journey in this challenging and (personally) wildly rewarding field. :)
 
 ### Skills
 
